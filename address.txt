@@ -1,0 +1,6 @@
+Arian,Aryubi,4160 High Ridge pl,Castro Valley,CA,94552,510-565-5475,arianaryubi@gmail.com
+Davante,Adams,613 Austin Way,Austin,Texas,78663,808-765-4563,dadams@yahoo.com
+George,Kittle,7896 Greenville Cir,Castro Valley,CA,94552,510-333-5790,george_kit@hotmail.com
+Aaron,Donald,202 Ram way,Los Angeles,CA,90203,213-909-8001,ad1@gmail.com
+Tom,Brady,777 Buc Street,Tampa Bay,Fl,50134,705-890-5422,tb12@yahoo.com
+Patrick,Mahomes,101 KC Way,Kansas City,MO,69982,411-876-5672,patmahomes@gmail.com
